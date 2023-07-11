@@ -1,0 +1,81 @@
+
+Ideas:
+
+-La forma de interactuar con personas es una notificacion de whatsapp
+-Las personas todas son una parodia de las personas reales
+-Empieza con una referencia al excel en windows con el que comenzo todo
+-El padre le dice que no le va a dar la cabeza para entender como funciona el programa 
+-Al querer acceder al codigo fuente de excel, aparece una imagen de bill gates diciendo "no me hice rico compartiendo mis codigos"
+-Que luego inmediatamente aparezca una imagen de stallman y de Linus invitandolo a que participe de linux
+-Que escribe un modulo del kernell que falla, linus lo putea, y conoce a farley con las practicas agiles
+-Al incorporar tdd y bdd junto a integracion continua, el modulo del kernell funciona
+-Dado que gano dinero se fue de vacaciones y conocio a su pareja Celia, con la que tuvo una hija "Crystal"
+-La hija es un subproceso
+-Como el modulo funciono, lo invitan a dar una charla de esas practicas a la universidad de mar del plata
+-Que al terminar la charla tamara lo invita al grupo de progra donde se reunen todos a unir ficheros de css con html
+-Que en el grupo se plantee projectar con varios miembros
+-Que aparezca jose para el trabajo audiovisual
+-Que aparezca nacho molestando cosa que hace que igor lo bannee
+-Que saque projectar y sea muy exitoso
+
+User stories
+
+Como usuario quiero que aparezca una ventana similar a whatsapp que me notifique los mensajes de otras personas
+  Igor preguntando al papa que era este programa
+  El papa diciendo que era excel y nunca lo iba a poder entender
+  Igor diciendole "ya vas a ver"
+  Linus comentandole que van a trabajar un modulo del kernell mediante waterfall
+  Linus insultandolo por no lograr el modulo porque fallo en la etapa de testeos de cascada
+  Igor preguntandose como puede mejorar
+  Farley invitandolo a una formacion de tdd, bdd e integracion continua en un barcito
+  Stallman diciendo "El modulo de kernell es un exito! Te envio el total de las donaciones de nuestros usuarios"
+  Igor agradeciendole a stallman
+  Igor planeando sus vacaciones
+  Igor saludando a Celia diciendole que seguro que hace un gran trabajo como Enfermera
+  Celia le agradece y lo invita a cenar
+  Igor diciendose a si mismo que tiene que levantar el proceso de Pareja
+  El papa diciendole cuando va a tomar unos mates, que desde que se caso con celia no lo ve mas
+  Igor diciendole al papa que 10 meses cuando ya haya nacido Crystal
+  Igor diciendole al papa que finalmente no le hizo falta entender al excel porque entendio otras cosas mas importantes
+  El decano de la univ de la plata invitandolo a dar una conferencia sobre agilismo
+  Tamara invitandolo a formar parte del grupo de programacion donde enlazan css con html
+  Igor presentandose en el grupo
+  Gabriel saludando a igor y diciendo que programa en java
+  Pablo saludando a igor y diciendo que trabaja en la nasa
+  Tamara agrega a Boligoma al grupo
+  Boligoma dice que programa videojuegos en Javascript
+  Igor los invita a trabajar en projectar
+  Boligoma dice que esta comiendo una hamburguesa
+  Gabriel diciendo que ya armo un modulo y se lo puede bajar con git pull
+  Boligoma dice que si le podia explicar la logica cuantica de projectar
+  Tamara diciendo que mucho mejor ahora sin Boligoma
+  Jose se presenta al grupo como un programador en cmd y productor audiovisual
+  Igor le pide ayuda a jose para la parte audiovisual de su proyecto
+  Jose le dice que si y que queria mejorar su programacion
+  Igor le dice que lo puede ayudar sin dramas
+  El grupo dice que la plataforma es un exito
+  Softia dice que por fin va a dejar de romper linux y que cuando saca el curso de arquitectura?
+Como usuario quiero poder usar el excel de windows del paquete office para windows 2.0 para calcular los ingresos para los devs de la base nval
+Como usuario quiero ver las imagenes de stallman y de Linus
+Como usuario quiero utilizar vim para programar y hacer pasar unas pruebas en python sobre el modulo del kernell
+Como usuario, quiero que el sistema me notifique que esas pruebas han fallado por la razon "Pylint error: code should be cleaner"
+Como usuario, quiero que el sistema me notifique que esas pruebas han sido exitosas por la razon "Successful assertion, kisses!"
+Como usuario, quiero que el sistema me notifique que recibi un ingreso de 200000 dolares con el mensaje "Finaliza el mes con: "
+Como usuario, quiero que el sistema me permita levantar un proceso llamado Pareja 
+Como usuario, quiero que el sistema me notifique de que el proceso pareja debe pertenecer al grupo de procesos llamado familia
+Como usuario, quiero que el sistema me notifique que debo hacer que Cecilia active el proceso Crystal
+Como usuario, quiero que el sistema me notifique que tengo un nuevo subproceso del proceso pareja llamado Crystal 
+Como usuario, quiero usar neovim para crear la presentacion de la conferencia sobre agilismo 
+Como usuario, quiero usar neovim para crear ficheros de projectar:
+  1- Readme
+  2- Requirements
+  3- c4 diag with mermaid
+  4- How to avoid afip
+Como usuario, quiero usar git para traer los archivos de los demas miembros del grupo a mi projecto local de projectar
+Como usuario quiero que el sistema me indique que hay una sobrecarga del sistema y debo eliminar a Boligoma del grupo
+Como usuario, quiero poder eliminar a boligoma del grupo
+Como usuario, quiero usar neovim y pytest para ejecutar varios tests unitarios de projectar
+Como usuario, quiero que el sistema me notifique de que los tests pasaron todos 
+Como usuario, quiero que el sistema me notifique 43 veces de algun ingreso de dinero secuencialmente
+COmo usuario, quiero que el sistema me pregunte que es lo que quiero hacer a continuacion
+
